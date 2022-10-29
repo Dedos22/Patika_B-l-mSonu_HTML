@@ -1,1 +1,2 @@
-# Patika_B-l-mSonu_HTML
+# Patika_BölümSonu_HTML
+<a href="https://www.patika.dev/tr">PATİKA</a>
